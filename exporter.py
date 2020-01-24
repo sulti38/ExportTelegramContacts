@@ -3,8 +3,8 @@ from telethon import functions, types
 from telethon import errors
 import csv
 
-api_id = 0000
-api_hash = "absfdefefe"
+api_id = 933214
+api_hash = f6ddc9e03e149474da094d8e44f0ab6e
 name = "session_name"
 
 with TelegramClient(name, api_id, api_hash) as client:
